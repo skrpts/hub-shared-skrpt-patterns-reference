@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "264ab69b-c269-4f6e-9ea6-f0e0b1e8d7b1"
+id: "a6d1cddf-c330-408d-838a-7651bad0b28f"
 name: "skrpt-patterns-reference"
 display_name: "Skrpt Patterns Reference"
 description: "Common pipeline architectures, when to use each, and anti-patterns to avoid"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
