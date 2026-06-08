@@ -3,7 +3,7 @@ id: "a6d1cddf-c330-408d-838a-7651bad0b28f"
 name: "skrpt-patterns-reference"
 display_name: "Skrpt Patterns Reference"
 description: "Common pipeline architectures, when to use each, and anti-patterns to avoid"
-version: "1.0.1"
+version: "1.0.2"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -14,6 +14,8 @@ category: "shared"
 tags:
   - "shared"
   - "source"
+dependencies: []
+
 contents:
   skills: 0
   prompts: 0
